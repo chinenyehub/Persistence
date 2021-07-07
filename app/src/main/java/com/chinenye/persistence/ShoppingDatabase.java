@@ -1,4 +1,4 @@
-package com.chinenye.persistence;
+package com.chinenye.persistence
 
 import androidx.room.Database
         import androidx.room.RoomDatabase:<kl
